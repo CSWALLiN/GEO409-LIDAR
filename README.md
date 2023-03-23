@@ -4,7 +4,7 @@ Kroger Field flyover using KyFromAbove LIDAR data
 Home of the University of Kentucky Wildcats football team
 
 ![Kroger Field](map.jpg)     
-
+*Kroger Field Map*
 
 ![Screenshot of animation](animation.jpg)     
-*[GEO 409 Kroger Field LiDAR Flyover](https://www.youtube.com/watch?v=nFV8ftGN0aM)*
+*[GEO 409 Kroger Field LiDAR Flyover](https://www.youtube.com/watch?v=TNrWAJ-XPag)*
